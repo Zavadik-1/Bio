@@ -3,7 +3,17 @@ output_dir: "."
 navbar:
   title: "Personal Website"
   left:
-    - text: "Home"
+    - text: "Головна"
       href: index.html
-    - text: "About Me"
+    - text: "Про протоколи"
       href: about.html
+    - text: "Розділ1"
+      href: ch1.html
+    - text: "Розділ2"
+      href: ch2.html
+    - text: "Розділ3"
+      href: ch3.html
+    - text: "Розділ4"
+      href: ch4.html
+      
+theme: jekyll-theme-cayman

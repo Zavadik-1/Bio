@@ -6,7 +6,7 @@ Why I am awesome.
 
 
 ---
-title: "index"
+title: "Головна"
 output: html_document
 ---
 

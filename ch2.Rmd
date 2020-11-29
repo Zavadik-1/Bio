@@ -1,0 +1,12 @@
+---
+title: "ch2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Протоколи до розділу2
+
+<a href="myfile.pdf" download>Завантажити імітацію протоколу</a>
